@@ -8,7 +8,7 @@ However, we are encountering inefficiencies in the training code. Our Runpod.io 
 2) How can we make the code more efficet.
 
 ![8 A40](https://raw.githubusercontent.com/dustinwloring1988/TinyGPT/main/dash-of%208%20A40.png)
-![4 A40](path/to/image.jpg](https://github.com/dustinwloring1988/TinyGPT/blob/main/dash.png)
+![4 A40](https://github.com/dustinwloring1988/TinyGPT/blob/main/dash.png)
 
 
 ### TinyGPT Configuration Summary
