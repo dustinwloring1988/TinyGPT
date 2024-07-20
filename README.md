@@ -4,6 +4,9 @@ TinyGPT integrates the GPT-2 model with a LLama3 tokenizer, expanding its vocabu
 
 However, we are encountering inefficiencies in the training code. Our Runpod.io dashboard images reveal that the model is confined to a single GPU rather than distributed across multiple GPUs.
 
+1) What can we do to get ride of one of the GPUS taking up so much more memory than the others.
+2) How can we make the code more efficet.
+
 ### TinyGPT Configuration Summary
 - **Model Type:** GPT2LMHeadModel
 - **Number of Parameters:** 1,072,599,040
