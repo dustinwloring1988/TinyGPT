@@ -7,6 +7,10 @@ However, we are encountering inefficiencies in the training code. Our Runpod.io 
 1) What can we do to get ride of one of the GPUS taking up so much more memory than the others.
 2) How can we make the code more efficet.
 
+![8 A40](https://raw.githubusercontent.com/dustinwloring1988/TinyGPT/main/dash-of%208%20A40.png)
+![4 A40](path/to/image.jpg](https://github.com/dustinwloring1988/TinyGPT/blob/main/dash.png)
+
+
 ### TinyGPT Configuration Summary
 - **Model Type:** GPT2LMHeadModel
 - **Number of Parameters:** 1,072,599,040
